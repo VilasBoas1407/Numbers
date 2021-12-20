@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XdG58PHipvEr2FN5Qe55NJH+lGxHIIBQyk+RBqKPHenOJOdJOy0JtK5Ii/QPhVvwNM21ZWyuiaEBQSHuxfhing==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\Framework\\backend\\Application\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
